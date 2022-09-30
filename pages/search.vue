@@ -66,7 +66,7 @@ export default {
     async createCopyUrl(resource) {
       try {
         const { path } = resource
-        await this.$copyText(`https://webgems.io${path}`)
+        await this.$copyText(`https://abc-webgems-resources.vercel.app${path}`)
       } catch (e) {
         console.error(e)
       }
