@@ -1,7 +1,7 @@
 <template lang="pug">
   .logo(@click="goToHome")
     .gem
-    p webgems.io
+    p abc-webgems-resources
 </template>
 
 <script>
