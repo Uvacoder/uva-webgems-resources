@@ -33,7 +33,7 @@ export default {
   },
   data() {
     return {
-      prodBaseUrl: 'https://webgems.io/',
+      prodBaseUrl: 'https://abc-webgems-resources.vercel.app/',
       showNotice: false,
     }
   },
