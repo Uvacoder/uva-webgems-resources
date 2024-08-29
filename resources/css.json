@@ -9,12 +9,6 @@
       "tags": ["generator", "grid", "layout", "visual tool"]
     },
     {
-      "title": "Keyframes Editor",
-      "desc": "An insanely simple way to create CSS animations",
-      "url": "https://keyframes.app/editor/",
-      "tags": ["generator", "animation", "visual tool"]
-    },
-    {
       "title": "Flexbox Froggy",
       "desc": "A game to learn Flexbox",
       "url": "https://flexboxfroggy.com",
